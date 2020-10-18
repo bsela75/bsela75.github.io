@@ -29,6 +29,6 @@ Multiple classes in my program focused on data structures and algorithms. We fir
   Through out my program security was one of my main focuses. I studied ways to write code that aligned with defensive programing. I took extra classes on ethical hacking so I 
  can understand the best practices for secure coding. I also learned how human error can cause many vulnerabilities and I used this knowledge to enhance my artifact accordingly. 
 
-**Artifact Summary **
+**Artifact Summary**
 
 For the Software Design and Engineering portion I chose to expand the artifacts complexity. For the Algorithms and Data Structure portion I chose to improve the efficiency of the artifact. For the Database portion I chose to add more advanced concepts of MySQl to enhance the artifact. The artifact I chose is from my CS-340class where I had to implement a basic RESTful web service using Python. The artifact showcases my ability to code in python and to implement a basic RESTful web service using Python.
