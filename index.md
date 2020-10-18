@@ -2,14 +2,14 @@
 layout: default
 ---
 
-**[Professional Self-Assessment](https://bsela75.github.io/Professional-Self-Assessment)**
+[**Professional Self-Assessment**](https://bsela75.github.io/Professional-Self-Assessment)
 
-**[Code Review]**()
+[**Code Review**]()
 
-**[Enhancement One: Software Design and Engineering]**(https://bsela75.github.io/one)
+[**Enhancement One: Software Design and Engineering**](https://bsela75.github.io/one)
 
-**[Enhancement Two: Algorithms and Data Structure]**(https://bsela75.github.io/two)
+[**Enhancement Two: Algorithms and Data Structur**](https://bsela75.github.io/two)
 
-**[Enhancement Three: Databases]**(https://bsela75.github.io/three)
+[**Enhancement Three: Databases**](https://bsela75.github.io/three)
 
-**[Artifact]**()
+[**Artifact**]()
