@@ -37,4 +37,4 @@ Multiple classes in my program focused on data structures and algorithms. We fir
 
 **Artifact Summary**
 
-For the Software Design and Engineering portion I chose to expand the artifacts complexity. For the Algorithms and Data Structure portion I chose to improve the efficiency of the artifact. For the Database portion I chose to add more advanced concepts of MySQl to enhance the artifact. The artifact I chose is from my CS-340class where I had to implement a basic RESTful web service using Python. The artifact showcases my ability to code in python and to implement a basic RESTful web service using Python.
+For the Software Design and Engineering portion I chose to improve the software. For the Algorithms and Data Structure portion I chose to improve the efficiency of the artifact. For the Database portion I chose to add more advanced concepts of MySQl to enhance the artifact. The artifact I chose is from my CS-340 class where I had to implement a basic RESTful web service using Python. The artifact showcases my ability to code in python and to implement a basic RESTful web service using Python.
