@@ -3,7 +3,7 @@ layout: default
 ---
 [Back](https://bsela75.github.io/)
 
-**Enhancement One: Software Design and Engineering**
+**Narrative**
 
 For the Software Design and Engineering artifact I chose my milestone 2 assignment in CS-340. For this assignment I had to implement a basic RESTful web service using Python. It was created four months ago and was part of my final project.
 
