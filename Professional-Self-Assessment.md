@@ -5,36 +5,26 @@ layout: default
 [Back](https://bsela75.github.io/)
 
 **Professional Self-Assessment**
+	Throughout my computer science program and my final capstone class at SNHU I learned important skills that are needed and required in the computer science field. I found that my course work emphasized on learning the best practices, understanding the logic when writing code and on building finished projects.  I was taught that writing code was not an
+  after thought but that there was a deliberate reason for choosing the code you wrote. All my courses emphasized  hands on experience when taking an idea to a finished  program. 
 
-Throughout my time in the computer science program and my final capstone class I learned many important skills that are needed in the computer science field.
-I found that my course work emphasized on learning the best practices, understanding the logic when writing code and on building finished projects. I was taught that writing code was not an
-  after thought but that there was a deliberate reason for choosing the code you wrote. All my courses required a final assignment that incorporated everything learned 
-  throughout the class, this gave a hands on experience in taking an idea for a program to a finished a program. 
-  
+
 **Collaborating in a Team Environment**
 
-There were many classes in my computer science program that required me to work on projects with a team. At first it was only small projects that required the
- team to worktogether on an assignment for a week and as I progressed through the program my CS-310 required an in depth understanding on how teams work together on a project. The first 
-  half of this class taught us the fundamentals of collaborating on a project. I learned the importance of version control and cloning repositories so I could work on my part of 
-  the project without affecting the main code of the assignment. After completing each part of the assignment, the code was committed to a git repository where other students 
-  looked at and commented on any errors. After updating the code, it was then merged with the original repository. This class gave a hands-on experience with working with both a 
-  team to complete a project and working with programs that are used in the field.
+  There were many classes in my computer science program that emphasized the importance of working with a team and creating comments and code that were easily readable and understandable to the team. My CS-310 required a collaborative environment as the class worked together to create a completed program. The class went through the process of cloning, committing, updating, and then merging repositories. This class gave a hands-on experience in collaborating in a team environment and using programs used in the field to complete a project. 
   
 **Communicating to Stakeholders**
 
-The focus in my CS-250 class was to take on various roles from the agile method this includes the role as a product owner. As the product owner I had to communicate to 
- stakeholders and explain how the project was progressing, explain the timeline for the project and set the priorities. I learned the best way to communicate with stakeholders 
- and how to explain projects both for people who had an understanding of computer science and those who did not.  
-  
+  In my CS-250 class we learned about the lifecycle of developing software while using the Agile method. We took on each role in the developmental cycle to understand what is required from each role. This was useful in understanding how to effectively communicate where in the process the project was to the team as well as being able to communicate with stakeholders. We were to take the feedback received to further improve and update the project until complete and then create a maintenance plan for the company. I used the knowledge gained in this class when developing this final project. I was able to create a schedule and follow the agile software development cycle when working on the project. This allowed me to have the time to adapt the project if errors were found or I needed to incorporate feedback. 
+
 **Data Structures and Algorithms**
 
-Multiple classes in my program focused on data structures and algorithms. We first began by understanding the fundamentals and then started incorporating the ideas into writing code for programs. The artifact I have chosen demonstrates my abilities in data structures and algorithms Software Engineering and Database. Software engineering and databases was one of the focuses in my program. In multiple classes we were required to build databases in python or create software in java. The artifact I have chosen demonstrates my abilities in software engineering and databases.
+  The focus of my CS-260 class was data structures and algorithms. I learned the importance of creating data structures and algorithms and that without them programs would not function effectively. Data structures allow for an organized access to data which allows for code to be efficient, structured and simplified. Having the fundamentals of this class was helpful when developing code for my more advanced classes. I was able to use the ideas of logic and structure in the class when working on different projects. 
   
 **Security**
 
-  Through out my program security was one of my main focuses. I studied ways to write code that aligned with defensive programing. I took extra classes on ethical hacking so I 
- can understand the best practices for secure coding. I also learned how human error can cause many vulnerabilities and I used this knowledge to enhance my artifact accordingly. 
+  While I did not take a Security specific class in SNHU I did study Security and Ethical hacking from TestOut. The Ethical hacking course explained the vulnerabilities that are created and exploited by hackers and taught the counter measures needed to correct them. I used the skills learned to improve Artifact three by creating the need to fill in credentials when trying to make changes to the data and required the program to check for existing files before accessing them.
 
 **Artifact Summary**
 
-For the Software Design and Engineering portion I chose to improve the software. For the Algorithms and Data Structure portion I chose to improve the efficiency of the artifact. For the Database portion I chose to add more advanced concepts of MySQl to enhance the artifact. The artifact I chose is from my CS-340 class where I had to implement a basic RESTful web service using Python. The artifact showcases my ability to code in python and to implement a basic RESTful web service using Python.
+The three artifacts I have chosen show a wide range of abilities I have developed in my computer science program. The three artifacts show my ability to write code in C++, Python and Java. Artifact one shows my ability to create both static and animated 3d objects. Artifact two shows my ability to take prewritten python code and improve the efficiency of the code. The third artifact shows my ability to translate code from Python to Java. I have chosen these three artifacts because each one represents my interest in the computer science field. 
