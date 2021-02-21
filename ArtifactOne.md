@@ -18,4 +18,4 @@ The goal is for the artifact to be improved by adding another object(pyramid) on
 
 
 
-[**Artifact**](https://github.com/bsela75/bsela75.github.io/blob/72ff8f33b8bc098062aa2c74d5a6ad870765832d/Artifact.py)
+[**Artifact**]
