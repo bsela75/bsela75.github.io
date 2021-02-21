@@ -21,6 +21,10 @@ layout: default
 
   The focus of my CS-260 class was data structures and algorithms. I learned the importance of creating data structures and algorithms and that without them programs would not function effectively. Data structures allow for an organized access to data which allows for code to be efficient, structured and simplified. Having the fundamentals of this class was helpful when developing code for my more advanced classes. I was able to use the ideas of logic and structure in the class when working on different projects. 
   
+**Software Engineering and Database**
+
+In my CS-250 class we learned about Software Engineering and in my CS-310 we expanded our knowledge of software engineering my working with a group to complete our projects. Many classes focused on testing the code created and how to create and run Junit tests.
+  
 **Security**
 
   While I did not take a Security specific class in SNHU I did study Security and Ethical hacking from TestOut. The Ethical hacking course explained the vulnerabilities that are created and exploited by hackers and taught the counter measures needed to correct them. I used the skills learned to improve Artifact three by creating the need to fill in credentials when trying to make changes to the data and required the program to check for existing files before accessing them.
