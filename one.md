@@ -3,14 +3,14 @@ layout: default
 ---
 [Back](https://bsela75.github.io/)
 
-**Narrative**
+**Software Design and Engineering Artifact One**
 
-For the Software Design and Engineering artifact I chose my milestone 2 assignment in CS-340. For this assignment I had to implement a basic RESTful web service using Python. It was created four months ago and was part of my final project.
+The artifact I selected was for my final project in CS-330. The artifact is a 3d representation of a bookcase. It was created in December of 2020. 
 
-I included this artifact in my ePortfolio because it showcases my ability to code in python and to implement a basic RESTful web service using Python. I also included this 
-code because it showcases my improvements in writing comments and my ability to structure code.
+I included this artifact because it shows my ability to create a 3d object that is digitally lit, fully textured and the user has the ability to orbit with mouse controls. It also shows my ability to have different textured objects in the world and my ability to have one be animated while the other remains static. 
 
-After I had completed my CS-340 class I spent more time working with Python and learning the logic behind coding in Python. When improving this artifact, I learned that it takes practice to find the best way to code a program. While my initial code worked it did not follow the best practices for coding in python. I improved this code by structuring the code following python’s best practices. I included detailed comments and more comments then the initial code. I improved the naming of variables and improved the if else statements.   
+The goal is for the artifact to be improved by adding another object(pyramid) on a shelf in the bookcase and this object has a different texture from the bookcase and is animated. One of the first challenges I faced was that I could not run the code because I did not have eclipse or my computer setup to run OpenGL. While working to set up Eclipse I wrote out the code in Notepad and learned that I have improved in writing out code without having to continuously check it for errors. 
+
 
 
 
