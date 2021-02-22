@@ -6,7 +6,7 @@ layout: default
 
 **Professional Self-Assessment**
 
-	Throughout my computer science program and my final capstone class at SNHU I learned important skills that are needed and required in the computer science field. I found that my course work emphasized on learning the best practices, understanding the logic when writing code and on building finished projects.  I was taught that writing code was not an
+Throughout my computer science program and my final capstone class at SNHU I learned important skills that are needed and required in the computer science field. I found that my course work emphasized on learning the best practices, understanding the logic when writing code and on building finished projects.  I was taught that writing code was not an
   after thought but that there was a deliberate reason for choosing the code you wrote. All my courses emphasized  hands on experience when taking an idea to a finished  program. 
 
 
