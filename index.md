@@ -4,7 +4,7 @@ layout: default
 
 [**Professional Self-Assessment**](https://bsela75.github.io/Professional-Self-Assessment)
 
-[**Code Review**](https://bsela75.github.io/review)
+[**Code Review**](https://bsela75.github.io/CodeReview)
 
 [**Artifact One**](bsela75.github.io/ArtifactOne)
 
